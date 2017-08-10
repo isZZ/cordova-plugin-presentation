@@ -8,6 +8,8 @@ Sample app using this plugin: [HelloApp](http://fraunhoferfokus.github.io/cordov
 
 Plugin documentation: [doc/index.md](doc/index.md)
 
+Added package.json to avoid plugin install error 
+
 
 # License
 
