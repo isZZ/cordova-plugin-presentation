@@ -1,1 +1,7 @@
-
+{
+    "name": "cordova-plugin-presentation",
+    "version": "2.0",
+    "author": "Cordova Plugin Presentation",
+    "homepage": "https://github.com/fraunhoferfokus/",
+    "private": true
+}
