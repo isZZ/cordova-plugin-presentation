@@ -22,7 +22,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="de.fhg.fokus.famium.presentation"
+    id="cordova-plugin-presentation-fork"
     version="0.0.2">
     <name>Presentation</name>
     <description>Cordova Presentation API Plugin</description>
